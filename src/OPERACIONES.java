@@ -38,8 +38,9 @@ public class OPERACIONES {
     }
     public void mostrarSumatoria(){
         double suma = n1+n2;
-        System.out.println(suma);
+        System.out.println("Resultado dd la suma:" +suma);
     }
+    /*
     public double resta(){
         return n1-n2;
     }
@@ -47,6 +48,7 @@ public class OPERACIONES {
         double resta = n1-n2;
         System.out.println("Resultado de la resta: "+resta);
     }
+    
     public void raiz(){
         System.out.println("Resultado de la raiz del primer numero: "+round( sqrt(n1)));
         System.out.println("Resultado de la raiz del segundo numero: "+round(sqrt(n2)));
@@ -57,4 +59,5 @@ public class OPERACIONES {
     public void dividir(){
         System.out.println("Resultado de la division:"+ round(n1/n2));
     }
+    */
 }
